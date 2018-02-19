@@ -37,7 +37,7 @@ The goal of this series is to learn the basics of the programming language Pytho
 *	Homework Review
 *	Update and Insert Cursors
 *	String Manipulation
-*	Working ‘in-memory’ 
+*	Working ‘in_memory’ 
 *	Layers
 *	Layer Selections
 *	Homework
