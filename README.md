@@ -53,13 +53,13 @@ The goal of this series is to learn the basics of the programming language Pytho
 #### Classes 6-8
 *	Homework Review
 *	Common GIS Automation Tasks
-..*	Updating Attribution Conditionally
-..*	Mass Geoprocessing Operations
-..*	Packaging/Preparing Data for Delivery
+    *	Updating Attribution Conditionally
+    *	Mass Geoprocessing Operations
+    *	Packaging/Preparing Data for Delivery
 *	Writing Functions
 *	Identifying Opportunities For Using Python at Work
-..*	Students brainstorm ideas for using Python in their work
-..*	Ideally, the results of that brainstorming drive the rest of the class
-..*	I’ll help students implement their own ideas for scripts relevant to their work
+    *	Students brainstorm ideas for using Python in their work
+    *	Ideally, the results of that brainstorming drive the rest of the class
+    *	I’ll help students implement their own ideas for scripts relevant to their work
 
 *This outline is subject to change based on needs of the students enrolled.
